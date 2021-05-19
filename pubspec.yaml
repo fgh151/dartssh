@@ -16,7 +16,7 @@ dependencies:
   pointycastle: ^1.0.1
   tweetnacl:
     git:
-      url: https://github.com/fgh151/tweetnacl-dart
+      url: https://github.com/sshstudio/tweetnacl-dart
   validators: ^2.0.0+1
 
 dev_dependencies:
